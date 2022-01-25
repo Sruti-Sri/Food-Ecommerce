@@ -1,2 +1,2 @@
-# Food-Ecommerce
-This is a Food Ecommerce website made with tech stacks like HTML,CSS and JavaScript.
+# E-Commerce Restaurant
+This is a resturant Ecommerce website made with tech stacks like HTML, CSS and JavaScript.
